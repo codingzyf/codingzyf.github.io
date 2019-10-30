@@ -6,9 +6,9 @@ email: zhuyingfeigo@163.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 朱莹飞的博客, zhuyingfei, 朱莹飞"
 url: "https://zhuyingfei.github.io"          # your host, for absolute URL
-github_url: https://github.com/goally
+github_url: https://github.com/codingzyf
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/goally/zhuyingfei.github.io.git" # you code repository
+github_repo: "https://github.com/codingzyf/zhuyingfei.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
